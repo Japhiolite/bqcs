@@ -1,4 +1,4 @@
-# Pick interfaces from a cross section using bqplot
+# Pick interfaces from a geological cross section using bqplot
 
 ![pick points](https://raw.githubusercontent.com/Japhiolite/bqcs/master/image.png)  
 
